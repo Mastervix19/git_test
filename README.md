@@ -1,1 +1,1 @@
-This is bella first project!
+This is (mastervix94)'s first git project!
